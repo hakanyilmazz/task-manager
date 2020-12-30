@@ -8,4 +8,4 @@ Requirements: <br />
 3- Microsoft Sql Server. <br />
 
 ## Grup Arkadaşı: <br />
-@<a href="https://www.github.com/ziramanbrc" target="_blank">ziramanbrc</a>
+@<a href="https://www.github.com/ziramanbrc">ziramanbrc (Burcu Keskin)</a>
